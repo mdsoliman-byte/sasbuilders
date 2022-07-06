@@ -1,0 +1,43 @@
+.main-container {
+
+    background-color: #151922;
+}
+
+.main-margin {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.topHeader {
+    display: flex;
+    justify-content: space-between;
+
+    color: white;
+}
+
+.quation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-number {
+    display: flex;
+    align-items: center;
+}
+
+.email-acc {
+    display: flex;
+    align-items: center;
+
+}
+
+.email-acc p {
+    margin-left: 10px;
+}
+
+.socila-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
